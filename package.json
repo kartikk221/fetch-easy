@@ -1,0 +1,33 @@
+{
+  "name": "fetch-easy",
+  "version": "1.0.0",
+  "description": "A Simple Fetch Wrapper With Useful Features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikk221/fetch-easy.git"
+  },
+  "keywords": [
+    "fetch",
+    "simple",
+    "easy-to-use",
+    "timeout",
+    "proxy",
+    "asynchronous"
+  ],
+  "author": "kartikk221",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kartikk221/fetch-easy/issues"
+  },
+  "homepage": "https://github.com/kartikk221/fetch-easy#readme",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "http-proxy-agent": "^4.0.1",
+    "https-proxy-agent": "^5.0.0",
+    "node-fetch": "^2.6.1"
+  }
+}
